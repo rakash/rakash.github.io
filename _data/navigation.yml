@@ -63,8 +63,8 @@
   side: left
   dropdown:
   - title: "Blog Archive"
-  dropdown:
-    - title: "super"
+    dropdown:
+      - title: "super"
       url: "/blog/archive/"
 
 #- title: "Search"
