@@ -71,6 +71,7 @@ Honestly, there are no negatives i see in this book. Picking up this book and re
 
 ### So, Who is this book for? 
 
+
 Are you someone who wants to achieve tremendous results in whichever area of life you want, by bringing a structure to your routine? This book is for you. 
 
 Go grab a copy at a store nearby or at [Amazon](https://www.amazon.com/Atomic-Habits-James-Clear/dp/1847941834/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1625644942&sr=8-1)
