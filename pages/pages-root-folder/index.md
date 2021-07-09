@@ -32,7 +32,7 @@ widget3:
 # To change colors see sass/_01_settings_colors.scss
 #
 callforaction:
-  url: https://tinyletter.com/feeling-responsive
+  url: https://follow.it/data-gyan?action=followPub
   text: Subscribe to Data Gyan  ›
   style: alert
 permalink: /index.html
