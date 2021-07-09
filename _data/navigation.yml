@@ -11,6 +11,8 @@
   dropdown:
   - title: "Grid & Colors"
     url: "/design/grid/"
+      - title: "Grid"
+        url: "/design/grid/"
   - title: "Typography"
     url: "/design/typography/typography/"
   - title: "Page/Post"
