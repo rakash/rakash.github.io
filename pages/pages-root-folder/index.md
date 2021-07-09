@@ -9,11 +9,11 @@ header:
   image_fullwidth: header_unsplash_12.jpg
 widget1:
   title: "Visit the Blog"
-  url: 'https://datagyan.co.in/feeling-responsive/blog/'
+  url: 'https://datagyan.co.in/blog/'
   image: widget-1-302x182.jpg
 widget2:
   title: "Why use this theme?"
-  url: 'https://datagyan.co.in/feeling-responsive/info/'
+  url: 'https://datagyan.co.in/info/'
   text: '<em>Feeling Responsive</em> is heavily customizable.<br/>1. Language-Support :)<br/>2. Optimized for speed and it&#39;s responsive.<br/>3. Built on <a href="http://foundation.zurb.com/">Foundation Framework</a>.<br/>4. Seven different Headers.<br/>5. Customizable navigation, footer,...'
   video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
 widget3:
