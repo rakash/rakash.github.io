@@ -20,7 +20,7 @@ image:
     title: mediaplayer_js-title.jpg
     thumb: mediaplayer_js-thumb.jpg
     homepage: mediaplayer_js-home.jpg
-mediaplayer: false
+mediaplayer: true
 ---
   
 I have been wanting to read this book for quite sometime now, and finally got my hands on it. 
