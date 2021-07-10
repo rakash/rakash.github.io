@@ -1,6 +1,6 @@
 ---
 layout: page
-sidebar: right
+sidebar1: right
 #
 # Content
 #
