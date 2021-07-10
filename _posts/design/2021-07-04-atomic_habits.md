@@ -22,23 +22,6 @@ image:
     homepage: mediaplayer_js-home.jpg
 mediaplayer: false
 ---
-
-<html>
-<head>
-<style>
-aside {
-  width: 30%;
-  padding-left: 15px;
-  margin-left: 15px;
-  float: right;
-  font-style: italic;
-  background-color: lightgray;
-}
-</style>
-</head>	
-	
-<body> 
-<p>
   
 I have been wanting to read this book for quite sometime now, and finally got my hands on it. 
 
@@ -92,9 +75,3 @@ Honestly, there are no negatives i see in this book. Picking up this book and re
 Are you someone who wants to achieve tremendous results in whichever area of life you want, by bringing a structure to your routine? This book is for you. 
 
 Go grab a copy at a store nearby or at [Amazon](https://www.amazon.com/Atomic-Habits-James-Clear/dp/1847941834/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1625644942&sr=8-1)
-
-</p>
-
-  
-</body>
-</html>
